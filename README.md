@@ -159,6 +159,42 @@ Gloria posee una **vía aferente entrenada**: practica gimnasia consciente, send
 
 ---
 
+## Código: clonar, `.env` y `git push`
+
+Los comandos de `git` y el archivo **`.env`** solo existen **dentro de la carpeta del repositorio** (la que contiene `.git`). Si ves `not a git repository` o `.env: No such file`, primero entra en esa carpeta.
+
+**Clonar (primera vez en esta máquina):**
+
+```bash
+git clone https://github.com/ukoquique-proves/Gloria-sanacion.git
+cd Gloria-sanacion
+cp .env.example .env
+# Edita .env y asigna GITHUB_TOKEN=... (el repo no incluye .env por seguridad)
+```
+
+**Empujar cambios** (estando ya en `Gloria-sanacion`):
+
+```bash
+cd /ruta/completa/a/Gloria-sanacion
+```
+
+Si **nvm** avisa de `PREFIX` (p. ej. `not compatible with the "PREFIX" environment variable: currently set to "/usr"`):
+
+```bash
+unset PREFIX
+```
+
+Cargar el token y hacer push (**rama `main`**, en una sola línea cada comando):
+
+```bash
+set -a && source .env && set +a
+git push "https://ukoquique-proves:${GITHUB_TOKEN}@github.com/ukoquique-proves/Gloria-sanacion.git" main
+```
+
+Mejor a largo plazo: **`gh auth login`** o **SSH** (`git@github.com:ukoquique-proves/Gloria-sanacion.git`) para no usar el token en la URL.
+
+---
+
 ## 📞 Contacto
 
 Para consultas sobre este proyecto, contactar con el equipo de coordinación médica.

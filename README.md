@@ -2,9 +2,11 @@
 
 **Documentación técnica para la coordinación de intervenciones de soporte en paciente cardíaca crítica**
 
-[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](https://github.com)
-[![Fecha](https://img.shields.io/badge/fecha-mayo%202026-blue)](https://github.com)
-[![Tipo](https://img.shields.io/badge/tipo-documentación%20médica-green)](https://github.com)
+[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](https://github.com/ukoquique-proves/Gloria-sanacion)
+[![Fecha](https://img.shields.io/badge/fecha-mayo%202026-blue)](https://github.com/ukoquique-proves/Gloria-sanacion)
+[![Tipo](https://img.shields.io/badge/tipo-documentación%20médica-green)](https://github.com/ukoquique-proves/Gloria-sanacion)
+
+**Repositorio:** [github.com/ukoquique-proves/Gloria-sanacion](https://github.com/ukoquique-proves/Gloria-sanacion)
 
 ---
 

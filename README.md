@@ -45,6 +45,8 @@ Los nombres de archivo coinciden con el repositorio (mayúsculas en `EJES_*`).
 ├── TERAPEUTAS_PERSEGUIDOS_ENG.md
 ├── TERAPEUTAS_MISTICOS.md
 ├── debate/                    # Intercambios de estrategia y síntesis (.md, .html, .txt)
+├── scripts/
+│   └── push-to-github.sh      # Push a main usando GITHUB_TOKEN desde .env
 └── README.md
 ```
 
@@ -184,7 +186,13 @@ Si **nvm** avisa de `PREFIX` (p. ej. `not compatible with the "PREFIX" environme
 unset PREFIX
 ```
 
-Cargar el token y hacer push (**rama `main`**, en una sola línea cada comando):
+**Forma recomendada:** script que lee `.env`, hace `unset PREFIX` si hace falta y empuja con autenticación (un `git push origin main` normal **no** usa `GITHUB_TOKEN` solo por estar en el entorno):
+
+```bash
+./scripts/push-to-github.sh
+```
+
+**Equivalente manual** (dos líneas):
 
 ```bash
 set -a && source .env && set +a

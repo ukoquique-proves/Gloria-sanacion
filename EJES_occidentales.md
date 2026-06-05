@@ -1,77 +1,110 @@
-# Estrategia de Acceso a Especialistas (Occidental)
+# Estrategia de Acceso a Especialistas — Pilar Occidental
 
-> Este documento se centra en las instituciones que gestionan la **integridad física** y la **respuesta química** del organismo.
+> Este documento define los ejes de interconsulta con medicina de precisión y el rol de cada actor institucional.
+> Actualización: Junio 2026 — nuevo paradigma diagnóstico (sospecha vasculitis autoinmune), protocolo biológico lipídico y redefinición del vector de contacto.
 
 ---
 
-## Eje 1: Biofísica y Coherencia Cardíaca (The HeartMath Institute)
+## Contexto del Cambio de Paradigma
+
+El caso de Gloria **ya no se presenta como una cardiopatía isquémica estándar**. La hipótesis del cardiólogo local reencuadra el cuadro como una posible **vasculitis sistémica autoinmune** con expresión cardiovascular primaria. Esto modifica el eje de interconsulta: el interlocutor de élite en Mayo Clinic es ahora el cruce **inmunología clínica + cardiología + genómica**, no solo cardiología intervencionista.
+
+---
+
+## Rol: Médico Validador en Territorio
+
+**Persona:** Cónyuge de Gloria (médico colegiado, residente en Cataluña)
+
+| Función | Detalle |
+|---------|---------|
+| Validación clínica local | Punto de contacto peer-to-peer con instituciones de élite |
+| Cruce de datos | Recibe resultados de interconsultas remotas y los contrasta con la evolución clínica real |
+| Telemedicina | Interlocutor habilitado para sesiones de teleconsulta con Mayo Clinic u otros centros |
+| Supervisión del protocolo biológico | Seguimiento de la transición a anticuerpos monoclonales (PCSK9) |
+
+> Su presencia es el principal habilitador del acceso a interconsultas de élite. Sin respaldo médico colegiado local, los centros de referencia internacional no gestionan casos de esta complejidad por vía directa.
+
+---
+
+## Eje 1: Interconsulta Inmunológica-Endotelial (Mayo Clinic / Centros Genómicos)
+
+**Instituciones objetivo:** Mayo Clinic (Rochester / Scottsdale), centros genómicos especializados en farmacogenómica cardiovascular
+
+### Fundamento clínico
+
+La coexistencia de:
+- Disección arterial espontánea (sin aterosclerosis como causa primaria)
+- Síntomas extracardíacos sistémicos (mucosa nasal, neuropatías periféricas, artritis migratoria, disfunción autonómica)
+- Intolerancia farmacológica múltiple (miopatía por estatinas, cefaleas por nitratos)
+
+...configura un fenotipo que requiere evaluación **inmunológica-endotelial** antes que intervencionista.
+
+### Objetivos de la interconsulta
+
+1. **Diagnóstico diferencial de vasculitis sistémica** — panel autoinmune completo (ANCA, ANA, Anti-GBM, complemento, crioglobulinas, VSG/PCR)
+2. **Secuenciación genómica SLCO1B1 / CYP** — confirmar base genética de la intolerancia a estatinas y validar el protocolo con inhibidores de PCSK9 (anticuerpos monoclonales)
+3. **Evaluación de predisposición genética familiar** al evento aterosclerótico (Evento 2: ruptura de placa)
+
+### Motivo de contacto
+
+> *"Solicitamos interconsulta de alta complejidad para un caso de cardiopatía con fenotipo atípico. La paciente presenta disección arterial espontánea previa, obstrucción coronaria fija del 90% no intervenible, intolerancia absoluta a estatinas (miopatía + toxicidad GI documentada) y síntomas sistémicos compatibles con vasculitis autoinmune (epistaxis/costras nasales, neuropatía periférica en manos, artritis migratoria, disfunción autonómica). El cardiólogo tratante plantea hipótesis de vasculitis sistémica como causa raíz unificadora. Requerimos: (1) panel inmunológico-endotelial de precisión, (2) secuenciación SLCO1B1/CYP para validar transición a protocolo biológico PCSK9, y (3) evaluación de predisposición genética cardiovascular familiar."*
+
+### Valor para la institución
+
+El caso ofrece un fenotipo infrecuente: **disección arterial espontánea + supervivencia + síntomas sistémicos sin diagnóstico autoinmune formal**. Es material de estudio para líneas de investigación en vasculitis de mediano vaso y farmacogenómica de intolerancia a estatinas.
+
+---
+
+## Eje 2: Auditoría de Polifarmacia y Validación Integrativa (Charité Berlin)
+
+**Institución:** Charité — Universitätsmedizin Berlin, Departamento de Medicina Integrativa
+
+### Fundamento
+
+El Charité combina el rigor de la medicina universitaria europea con uno de los pocos departamentos integrativos institucionales capaces de validar científicamente intervenciones de campo (Reiki, biofeedback) en pacientes de alta complejidad.
+
+### Objetivos
+
+1. Revisión del esquema farmacológico actual bajo criterios **STOPP/START** — identificar cascadas medicamentosas y prescripciones omitidas
+2. Validación del protocolo de anticuerpos monoclonales PCSK9 en el contexto de la polifarmacia cardiovascular vigente
+3. Documentación estructurada del impacto del Reiki como coadyuvante medible en un caso con daño estructural masivo
+
+### Motivo de contacto
+
+> *"Como analista de sistemas, coordino la documentación de un caso de falla en tolerancia metabólica múltiple en paciente cardíaca crítica post-disección aórtica. El equipo tratante local sospecha vasculitis sistémica autoinmune como causa raíz. Buscamos auditoría de polifarmacia (STOPP/START) y validación científica del Reiki como intervención coadyuvante medible, en el marco de un protocolo de datos estructurado."*
+
+---
+
+## Eje 3: Biofeedback de Coherencia Cardíaca (HeartMath Institute)
 
 **Organismo:** [The HeartMath Institute](https://www.heartmath.org) (California)
 
 ### Fundamento
-El corazón es el principal generador de campos electromagnéticos del cuerpo. Su ritmo influye directamente en la estabilidad de la túnica media de la aorta.
 
-### Propuesta
-Implementar protocolos de **Biofeedback de Coherencia** para estabilizar la variabilidad del ritmo cardíaco (HRV). El objetivo es que la paciente aprenda a modular su **tono vagal** para reducir el estrés parietal sobre la aorta descendente.
+Con la hipótesis de vasculitis activa, el estrés parietal sobre la aorta y las arterias comprometidas cobra mayor relevancia. La modulación del tono vagal mediante biofeedback de HRV es una intervención no química que reduce la carga simpática sobre el endotelio inflamado.
 
-### Valor para la Institución
-Gloria representa un caso de **"resiliencia sistémica" extrema**. Para una institución líder, documentar cómo la regulación rítmica sostiene un sistema con necrosis masiva es un **activo de investigación único**.
+### Objetivo
 
-> **🎯 El Motivo de Contacto:**
-> *"Investigamos la optimización de la Variabilidad de la Frecuencia Cardíaca (HRV) como biomarcador de resiliencia en un caso de remodelación post-infarto masivo. Ante la intolerancia farmacológica, buscamos implementar protocolos de biofeedback de coherencia electromagnética para modular el tono vagal y reducir el estrés parietal en la aorta sin intervención química adicional."*
+Implementar protocolos de **biofeedback de coherencia cardíaca** para estabilizar la variabilidad del ritmo cardíaco (HRV) y reducir el estrés parietal sobre la pared arterial sin añadir carga farmacológica.
 
----
+### Motivo de contacto
 
-## Eje 2: Farmacogenómica y Medicina de Precisión (Mayo Clinic / Centros Genómicos)
+> *"Investigamos la optimización de la HRV como biomarcador de resiliencia en un caso de remodelación post-infarto masivo con sospecha de vasculitis sistémica subyacente. Ante la intolerancia farmacológica múltiple y la contraindicación de cateterismo, buscamos implementar protocolos de biofeedback de coherencia electromagnética para modular el tono vagal y reducir el estrés endotelial sin intervención química adicional."*
 
-**Instituciones:** Mayo Clinic, centros genómicos especializados
-
-### Fundamento
-La intolerancia a las estatinas y nitratos indica una **variabilidad genética en las rutas metabólicas** (citocromos hepáticos).
-
-### Propuesta
-Realizar un **mapeo de polimorfismos genéticos** para identificar agentes terapéuticos de alta compatibilidad. El objetivo es estabilizar el perfil lipídico sin inducir toxicidad muscular o cefaleas.
-
-### Valor para la Institución
-El perfil de **"hipersensibilidad múltiple"** de la paciente es un rompecabezas genético que permite perfeccionar algoritmos de predicción de efectos adversos en casos críticos.
-
-> **🎯 El Motivo de Contacto:**
-> *"Requerimos consultoría experta para realizar un perfil farmacogenómico detallado. La paciente presenta una respuesta adversa idiosincrásica a múltiples familias de fármacos esenciales (estatinas, nitratos). El objetivo es mapear sus rutas metabólicas para identificar agentes terapéuticos de alta compatibilidad que minimicen la mialgia y la neurotoxicidad."*
+> **Nota operativa:** Ejecutar Recon completo según `OCCIDENTALES/1-HEARTMATH.md` antes de redactar el primer correo.
 
 ---
 
-## Eje 3: Auditoría de Polifarmacia y Medicina Integrativa
+## Factor de Éxito: La Operadora Consciente
 
-**Institución:** Charité - Universitätsmedizin Berlin
+Gloria posee una **vía aferente entrenada** que convierte el caso en un entorno de pruebas de alta fidelidad:
 
-### Fundamento
-El Charité es uno de los hospitales universitarios más grandes y prestigiosos de Europa (donde han trabajado más de la mitad de los premios Nobel alemanes de medicina). A diferencia de muchos hospitales que rechazan lo "alternativo", el Charité tiene un **departamento de Medicina Integrativa** de un nivel científico altísimo.
+- Gimnasia consciente y atención plena → reporte propioceptivo preciso
+- Práctica activa de Reiki → capacidad de discriminar estados internos
+- Disciplina de senderismo y escritura → adherencia sostenida a protocolos
 
-### Propuesta
-Realizar una revisión de la medicación actual bajo criterios **STOPP/START** (Screening Tool of Older Person's Prescriptions) para identificar fármacos potencialmente inapropiados y detectar prescripciones omitidas que pudieran beneficiar a la paciente. Validar mediante metodología científica rigurosa cómo las terapias de campo (Reiki, MTC) producen respuestas biológicas medibles en un sistema con daño estructural masivo. Documentar la interferencia de la polifarmacia en la recuperación.
-
-### Valor para la Institución
-Si alguien en el mundo puede validar por qué el Reiki o la MTC están ayudando a una paciente con un 55% de necrosis, son ellos. Tienen la autoridad para decir: *"Esto no es efecto placebo, es una respuesta biológica medible"*. Son el **puente perfecto entre la ciencia dura y la curación de la trama**.
-
-> **🎯 El Motivo de Contacto:**
-> *"Como analista de sistemas, estoy documentando la interferencia de la polifarmacia en la recuperación de un sistema con falla multiorgánica (cardíaca, digestiva y endocrina). Buscamos protocolos de apoyo mediante medicina tradicional validada que actúen como coadyuvantes en la reducción de síntomas autonómicos mientras se mantiene la estabilidad hemodinámica alopática."*
-
-**✅ Por qué les interesa:**
-Los directores de departamentos integrativos suelen luchar por el **prestigio y la validación**. Al proponerles documentar el caso como una "auditoría de interferencia", les estás ofreciendo **evidencia clínica estructurada**. Tu capacidad para navegar y organizar la información técnica les ahorra el trabajo administrativo y les permite enfocarse en la "arquitectura de curación" que ellos proponen.
+Para cualquier institución de élite, esto resuelve el principal obstáculo clínico: el paciente que no sabe reportar datos. Gloria es una **operadora de datos biológicos**, no un receptor pasivo.
 
 ---
 
-## 💡 El Factor de Éxito: La Operadora Consciente
-
-El argumento final para cualquier especialista es que Gloria ya posee una **vía aferente entrenada**:
-
-*   Practica **gimnasia consciente** y senderismo.
-*   Utiliza técnicas de **atención plena** y tiene experiencia en terapias de red como **Reiki** y **Constelaciones Familiares**.
-
-**Por qué esto es vital para ellos:**
-
-En medicina de frontera, el mayor obstáculo es el paciente pasivo que no sabe reportar datos. Gloria es una **"usuaria experta"** de su propia biología. Esto garantiza que cualquier intervención tendrá un **feedback inmediato y preciso**, permitiendo ajustes finos en el tratamiento que serían imposibles en un paciente promedio. Estás ofreciendo un **entorno de pruebas biológico optimizado**.
-
----
-
-*Documento técnico: Estrategias Occidentales. Mayo 2026.*
+*Documento técnico — Junio 2026.*
